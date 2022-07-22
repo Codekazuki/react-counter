@@ -1,0 +1,9 @@
+.button{
+    color: rgb(123, 47, 167);
+    background-color: rgb(125, 232, 125);
+    padding: 1.2rem;
+    margin: 1.2rem;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    border-radius: 12px 4px;
+}
